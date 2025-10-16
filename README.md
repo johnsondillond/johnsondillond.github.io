@@ -1,88 +1,57 @@
-- [My GitHub Repositories](#my-github-repositories)
-  - [nhl-projects](#nhl-projects)
-  - [One-Stop-Job-Shop](#one-stop-job-shop)
-  - [NLPProject](#nlpproject)
-  - [HullTacticalMarketPrediction](#hulltacticalmarketprediction)
-  - [MarchMadnessPredictor](#marchmadnesspredictor)
-  - [HackUSU2025](#hackusu2025)
+# **Dillon Johnson**
 
-# My GitHub Repositories
+(531) 484-6258 <johnson.dillon.d@gmail.com> [My LinkedIn](https://www.linkedin.com/in/johnsondillond) [My GitHub](https://github.com/johnsondillond)
 
----
+## **EDUCATION**
 
-- Overview:
-  - This is a directory to all my GitHub projects I've worked on or am currently working on ordered by recent activity.
-  - [myProjects](https://github.com/johnsondillond/myProjects) has all the Git history to most of these projects prior to September 2025 when I reorganized my portfolio.
+### **Utah State University, School of Computing** (**Logan, UT**)
 
-## nhl-projects
+*Bachelor of Science, Computer Science* May 2026
 
----
+- GPA: 3.70 (while working 20 hours per week)
+- Nonresident Presidential Scholarship
+- VP, Sports Analytics Club 2024-2025
+- Member, Analytics Solutions Center 2024-2025
+- Member, College of Science Council 2022-2024
 
-- Activity Status:
-  - Active (September 2024 - Present)  
-- Description:
-  - This has 2 semi-related projects, NHLFantasyAssistant and NHLDataGathering.
-  - I have more extensively worked the former and had much success with it over the 2024-2025 NHL Fantasy Season.
-- URL:
-  - [nhl-projects](https://github.com/johnsondillond/nhl-projects)
+## **WORK EXPERIENCE**
 
-## One-Stop-Job-Shop
+### **Space Dynamics** **Laboratory** (**Logan, UT**)
 
----
+*Software Engineer Assistant* May 2025 - Present
 
-- Activity Status:
-  - Active (September 2025 - Present)
-- Description:
-  - This is a project I have been leading after pitching at the ASC (Analytics Solution Center)
-  - The intent of this project is to aggregate relevant job applications after scanning a resume
-  - Additional features include an AI Interview Tutor that can simulate an interview based on a selected job application
-- URL:
-  - [One-Stop-Job-Shop](https://github.com/johnsondillond/One-Stop-Job-Shop)
+- Pioneered feature testing frameworks and maintained lessons learned; increasing team availability by 168 times
+- Engineered preliminary custom containerized apps using Docker, Ubuntu, and Nix to automate evaluation efforts and reduce team labor hours by 98%
+- Authored test code to achieve coverage of 90% of all source code to uphold maximum functionality and availability
 
-## NLPProject
+### **Provo Missionary Training Center** (**Provo, UT**)
 
----
+*Remote Fijian Language Instructor* Nov 2023 - Jan 2024
 
-- Activity Status:
-  - Active (September 2025 - Present)
-- Description:
-  - This is a class project for my Natural Language Processing course with Teancum Price & Reagan Hill
-  - We are analyzing a dataset regarding Stack Overflow queries and what determines the quality of queries
-- URL:
-  - [NLPProject](https://github.com/johnsondillond/NLPProject)
+- Directed small groups of young adults in 3-hour language classes and coordinated with partner teacher on-site twice a week
+- Showcased novel grammar principles with applicable examples to learners for immediate use to reduce complexity of conversing in beginning stages
 
-## HullTacticalMarketPrediction
+### **Utah State University** (**Logan, UT**)
 
----
+*Registrar’s Office Assistant* May - Sep 2023
 
-- Activity Status:
-  - Active (September 2025 - Present)
-- Description:
-  - This is a Kaggle competition for my Applied Machine Learning course with David Paxton & Matthew Evans
-  - We are attempting to predict stock investments outside of the S&P 500 to see if modeling can outperform experts
-- URL:
-  - [HullTacticalMarketPrediction](https://github.com/johnsondillond/HullTacticalMarketPrediction)
+- Supported students with registration errors and troubleshooting efforts to ensure timely course enrollment and minimize administrative delays
+- Delivered official transcripts according to institutional policies and privacy standards, enabling student transitions and professional documentation needs
 
-## MarchMadnessPredictor
+## **VOLUNTEER / LEADERSHIP**
 
----
+### **The Church of Jesus Christ of Latter-day Saints** (**San Francisco, CA**)
 
-- Activity Status:
-  - Closed (January 2025 - May 2025)
-- Description:
-  - A first attempt at using PyCaret to model MarchMadness results for the 2025 Tourney as a class project.
-  - I worked on this with Eh The Moo Htoo and Ryan Grotzky, fellow classmates to the course this project was done for.
-- URL:
-  - [MarchMadnessPredictor](https://github.com/johnsondillond/MarchMadnessPredictor)
+*Full-Time Volunteer, Fijian Speaking* Jul 2020 – Jul 2022
 
-## HackUSU2025
+- Dedicated 70+ hours weekly to teaching life skills and supporting individuals and families throughout the greater Bay Area
+- Guided a team of 20+ volunteers by providing training, setting goals, and leading practice activities to strengthen teamwork and leadership
+- Fostered resilience and a strong work ethic through 12-hour daily service efforts aimed at improving community well-being
 
----
+## **SKILLS / INTERESTS**
 
-- Activity Status:
-  - Closed (March 2025)
-- Description:
-  - 24-hour Hackathon with different categories and associated challenges to choose to work on as a team.
-  - Earned 3rd place in Sports Analytics Category project with Hailey Johnson, Ben Gonzalez, and Luke Nichols.
-- URL:
-  - [HackUSU2025](https://github.com/johnsondillond/HackUSU2025)
+- Fijian, Advanced
+- Python, Git, Ubuntu, Advanced
+- Java, Docker, React, Django, Proficient
+- JavaScript, TypeScript, C++, R, Basic
+- Hockey Fanatic – Love to watch, play, and code analytics on hockey regularly; Favorite team is the Detroit Red Wings
