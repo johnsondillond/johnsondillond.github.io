@@ -19,9 +19,9 @@
 
 ## **WORK EXPERIENCE**
 
-### **Cover Zero Analytics** (**Logan, UT**)
+### **Analytics Solutions Center** (**Logan, UT**)
 
-*Data Analyst* February 2026 - Present
+*Data Analyst (Cover Zero Analytics)* February 2026 - Present
 
 - Generated EPA metric used in NFL analytics over 900,000 records of FBS play by play data
 - Regularized data schema of 6 years worth of FBS play by play data for analysis
