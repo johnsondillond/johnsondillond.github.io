@@ -43,7 +43,7 @@
 
 ### **Utah State University** (**Logan, UT**)
 
-*Registrar’s Office Assistant* May - Sep 2023
+*Registrar’s Office Assistant* May 2023 - Sep 2023
 
 - Supported students with registration errors and troubleshooting efforts to ensure timely course enrollment and minimize administrative delays
 - Delivered official transcripts according to institutional policies and privacy standards, enabling student transitions and professional documentation needs
@@ -63,5 +63,5 @@
 - Fijian, Advanced
 - Python, Git, Ubuntu, Advanced
 - Java, Docker, React, Django, Proficient
-- JavaScript, TypeScript, C++, R, Basic
+- JavaScript, TypeScript, C++, R, Rust, Basic
 - Hockey Fanatic – Love to watch, play, and code analytics on hockey regularly; Favorite team is the Detroit Red Wings
