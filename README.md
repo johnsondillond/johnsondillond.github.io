@@ -7,18 +7,28 @@
 ### **Utah State University, School of Computing** (**Logan, UT**)
 
 *Bachelor of Science, Computer Science* May 2026
+*Master of Data Analytics (MLOps & FinTech Specializations)* May 2027
 
-- GPA: 3.70 (while working 20 hours per week)
+- GPA: 3.73 (while working 20 hours per week)
 - Nonresident Presidential Scholarship
-- VP, Sports Analytics Club 2024-2025
+- President, Sports Analytics Club 2026-2027
+- VP, Sports Analytics Club 2025-2026
 - Member, Analytics Solutions Center 2024-2025
 - Member, College of Science Council 2022-2024
 
 ## **WORK EXPERIENCE**
 
-### **Space Dynamics** **Laboratory** (**Logan, UT**)
+### **Cover Zero Analytics** (**Logan, UT**)
 
-*Software Engineer Assistant* May 2025 - Present
+*Data Analyst* February 2026 - Present
+
+- Generated EPA metric used in NFL analytics over 900,000 records of FBS play by play data
+- Regularized data schema of 6 years worth of FBS play by play data for analysis
+- Campaigned maintaining accurate documentation of over 100 feature columns within FBS dataset
+
+### **Space Dynamics Laboratory** (**Logan, UT**)
+
+*Software Engineer Assistant* May 2025 - February 2026
 
 - Pioneered feature testing frameworks and maintained lessons learned; increasing team availability by 168 times
 - Engineered preliminary custom containerized apps using Docker, Ubuntu, and Nix to automate evaluation efforts and reduce team labor hours by 98%
