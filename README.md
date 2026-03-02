@@ -6,8 +6,9 @@
 
 ### **Utah State University, School of Computing** (**Logan, UT**)
 
-*Bachelor of Science, Computer Science* May 2026
-*Master of Data Analytics (MLOps & FinTech Specializations)* May 2027
+#### *Bachelor of Science, Computer Science* May 2026
+
+#### *Master of Data Analytics (MLOps & FinTech Specializations)* May 2027
 
 - GPA: 3.73 (while working 20 hours per week)
 - Nonresident Presidential Scholarship
