@@ -35,9 +35,9 @@ I am a developer specializing in Data Science, NLP, and Machine Learning. Below 
 
 Participated in a 24 hour hackathon with:
 
-* <img src="/assets/imgs/haileyjohnson.png" width="25" style="border-radius:50%; vertical-align:middle;"> [Hailey Johnson](https://github.com/haileyhal)
-* <img src="/assets/imgs/lukenichols.jpg" width="25" style="border-radius:50%; vertical-align:middle;">[Luke Nichols](https://github.com/lukeni64)
-* <img src="/assets/imgs/bengonzalez.jpg" width="25" style="border-radius:50%; vertical-align:middle;">[Benjamin Gonzalez](https://github.com/ben-gonz)
+* [Hailey Johnson](https://github.com/haileyhal) <img src="/assets/imgs/haileyjohnson.png" width="50" style="border-radius:50%; vertical-align:middle;">
+* [Luke Nichols](https://github.com/lukeni64) <img src="/assets/imgs/lukenichols.jpg" width="50" style="border-radius:50%; vertical-align:middle;">
+* [Benjamin Gonzalez](https://github.com/ben-gonz) <img src="/assets/imgs/bengonzalez.jpg" width="50" style="border-radius:50%; vertical-align:middle;">
 
 * **Key Tech:** Conjoint Analysis, Marketing Analytics
 * [Detailed Documentation](/hackusu2026) | [Source Code](https://github.com/johnsondillond/HackUSU2026)
