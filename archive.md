@@ -32,7 +32,7 @@
 ---
 
 - Activity Status:
-  - Active (September 2025 - Present)
+  - Active (September 2025 - November 2025)
 - Description:
   - This is a project I have been leading after pitching at the ASC (Analytics Solution Center)
   - The intent of this project is to aggregate relevant job applications after scanning a resume
@@ -57,7 +57,7 @@
 ---
 
 - Activity Status:
-  - Active (September 2025 - Present)
+  - Active (September 2025 - December 2025)
 - Description:
   - This is a Kaggle competition for my Applied Machine Learning course with David Paxton & Matthew Evans
   - We are attempting to predict stock investments outside of the S&P 500 to see if modeling can outperform experts
