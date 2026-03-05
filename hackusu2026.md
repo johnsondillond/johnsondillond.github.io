@@ -42,8 +42,8 @@ We recommended greenlighting a **Cookies & Cream Protein Ice Cream**.
 
 You can view the detailed analysis, demographic data, and market simulation results in the embedded PDF below.
 
-<iframe src="/assets/documents/Marketing-Analytics-Presentation.pdf" width="100%" height="600px">
-    <p>Your browser does not support PDFs. <a href="/assets/documents/Marketing-Analytics-Presentation.pdf">Download the PDF</a>.</p>
+<iframe src="/assets/documents/Marketing_Analytics_Presentation.pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="/assets/documents/Marketing_Analytics_Presentation.pdf">Download the PDF</a>.</p>
 </iframe>
 
 ---

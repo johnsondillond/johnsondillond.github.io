@@ -18,12 +18,12 @@ On platforms like Stack Overflow, many technical questions receive little to no 
 
 ## The Solution: Multi-Model Sentiment & Quality Analysis
 
-We developed a pipeline to classify questions into three categories: HQ (High-quality posts without edits), LQ_EDIT (Low-quality but remaining open), and LQ_CLOSE (Low-quality posts closed by the community).
+We followed an [existing pipeline](https://www.sciencedirect.com/science/article/abs/pii/S0020025522003127?via%3Dihub) to classify questions into three categories: HQ (High-quality posts without edits), LQ_EDIT (Low-quality but remaining open), and LQ_CLOSE (Low-quality posts closed by the community).
 
 ### Data Engineering & Extraction
 
 * **Custom SQL Querying:** I used the StackExchange database to manually query and filter target datasets from five distinct CQA communities: Super User, Ask Ubuntu, Meta Stack Exchange, Mathematics, and Server Fault.
-* **High-Speed Processing:** We used the Polars library for its speed in handling big data and reindexing feature columns across millions of rows.
+* **High-Speed Processing:** I used the Polars library for its speed in handling big data and reindexing feature columns across millions of rows.
 * **Preprocessing:** Text data underwent filtering, tokenization, lemmatization, and stop-word removal, followed by TF-IDF vectorization.
 
 ### Modeling Approach
@@ -40,6 +40,7 @@ We experimented with several architectures to find the best balance of speed and
 * **HQ Characteristics:** Analysis revealed that high-quality questions often include specific technical keywords like Kotlin, Docker, and Firebase, along with detailed explanations.
 
 ### Performance Metrics (Body Text)
+
 | Model | Precision | Recall | F1 Score | AUC-ROC |
 | :--- | :---: | :---: | :---: | :---: |
 | **Ensemble** | **0.791** | **0.792** | **0.791** | **0.930** |
@@ -48,7 +49,16 @@ We experimented with several architectures to find the best balance of speed and
 
 ---
 
+## Readable Summary of Findings
+
+You can find a simplified and digestable presentation of our findings in the embedded document below. For a more complete dive into our research feel free to read over the next embedded document.
+
+<iframe src="/assets/documents/NLP_Final_Presentation.pdf" width="100%" height="600px" style="border:none;">
+    <p>Your browser does not support PDFs. <a href="/assets/documents/NLP_Final_Presentation.pdf">Download the NLP Research PDF</a>.</p>
+</iframe>
+
 ## Full Research Documentation
+
 You can find the comprehensive breakdown of our hyperparameter tuning, CQA counts, and dataset distributions in the embedded report below.
 
 <iframe src="/assets/documents/NLP_Class_Project.pdf" width="100%" height="600px" style="border:none;">

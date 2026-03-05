@@ -17,6 +17,7 @@ I am a developer specializing in Data Science, NLP, and Machine Learning. Below 
 ## Featured Projects
 
 *Select a project to view the full problem-solution breakdown.*
+
 | Project | Focus | Status | Dive Deeper |
 | :--- | :--- | :--- | :--- |
 | **HackUSU 2026** | Conjoint Survey & Marketing Analytics | Earned 1st Place | [View Case Study](/hackusu2026) |
