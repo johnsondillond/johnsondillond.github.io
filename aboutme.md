@@ -31,15 +31,15 @@ title: About Me
 * I had a blast helping plan the event with Ryan Hammer coming out to USU with other SAC leaders.
 
 <p align="center">
-  <img src="/assets/imgs/sac.png" width="600" style="border-radius: 8px;">
+  <img src="/assets/imgs/SAC.png" width="600" style="border-radius: 8px;">
 </p>
 
-* I was able to work with some amazing people to convert a giant GroupMe chat for ultimate frisbee into a USU club.
+* I worked with some amazing people to convert a giant GroupMe chat for ultimate frisbee into a USU club.
 * The club we formed was the Coed Rec Ultimate Frisbee Club (CRUFC) and I was president for the first year.
 * It has since changed leadership and we still have many people join our pickup games on Thursday nights.
 
 <p align="center">
-  <img src="/assets/imgs/crufc.png" width="600" style="border-radius: 8px;">
+  <img src="/assets/imgs/CRUFC.PNG" width="600" style="border-radius: 8px;">
 </p>
 
 ## My Favorite Trip
@@ -48,11 +48,11 @@ title: About Me
 * The first night was seeing Electric Light Orchestra (ELO) for the 2nd time.
 
 <p align="center">
-  <img src="/assets/imgs/elo.jpg" width="600" style="border-radius: 8px;">
+  <img src="/assets/imgs/ELO.jpg" width="600" style="border-radius: 8px;">
 </p>
 
-* The second night was the first game of the season for the Detroit Red Wings against the Penguins.
+* The second night was the first game of the season for the Detroit Red Wings against the Pittsburgh Penguins.
 
 <p align="center">
-  <img src="/assets/imgs/drw.jpg" width="600" style="border-radius: 8px;">
+  <img src="/assets/imgs/DRW.jpg" width="600" style="border-radius: 8px;">
 </p>
