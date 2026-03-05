@@ -1,5 +1,7 @@
 # **Dillon Johnson**
 
+{% include analytics.html %}
+
 (531) 484-6258 <johnson.dillon.d@gmail.com> [My LinkedIn](https://www.linkedin.com/in/johnsondillond) [My GitHub](https://github.com/johnsondillond)
 
 ## **EDUCATION**

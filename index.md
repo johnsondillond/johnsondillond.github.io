@@ -17,20 +17,30 @@ I am a developer specializing in Data Science, NLP, and Machine Learning. Below 
 ## Featured Projects
 
 *Select a project to view the full problem-solution breakdown.*
-
 | Project | Focus | Status | Dive Deeper |
 | :--- | :--- | :--- | :--- |
-| **HackUSU 2026** | Conjoint Survey & Marketing Analytics | 1st Place | [View Case Study](/hackusu2026) |
+| **HackUSU 2026** | Conjoint Survey & Marketing Analytics | Earned 1st Place | [View Case Study](/hackusu2026) |
 | **One-Stop-Job-Shop** | AI & Aggregation | Active | [View Case Study](/one-stop-job-shop) |
 | **NHL Analytics** | Data Analytics Engineering | Active | [View Case Study](/nhl-projects) |
 | **Stack Overflow NLP** | Natural Language | Active | [View Case Study](/nlp-project) |
 | **Market Prediction** | Machine Learning | Active | [View Case Study](/market-prediction) |
-| **HackUSU 2025** | Sports Analytics | 3rd Place | [View Case Study](/hackusu2025) |
+| **HackUSU 2025** | Sports Analytics | Earned 3rd Place | [View Case Study](/hackusu2025) |
 | **March Madness** | Predictive Modeling | Closed | [View Case Study](/march-madness) |
 
 ---
 
 ## Project Summaries
+
+### HackUSU 2026
+
+Participated in a 24 hour hackathon with:
+
+* <img src="/assets/imgs/haileyjohnson.png" width="25" style="border-radius:50%; vertical-align:middle;"> [Hailey Johnson](https://github.com/haileyhal)
+* <img src="/assets/imgs/lukenichols.jpg" width="25" style="border-radius:50%; vertical-align:middle;">[Luke Nichols](https://github.com/lukeni64)
+* <img src="/assets/imgs/bengonzalez.jpg" width="25" style="border-radius:50%; vertical-align:middle;">[Benjamin Gonzalez](https://github.com/ben-gonz)
+
+* **Key Tech:** Conjoint Analysis, Marketing Analytics
+* [Detailed Documentation](/hackusu2026) | [Source Code](https://github.com/johnsondillond/HackUSU2026)
 
 ### NHL Analytics & Data Gathering
 
