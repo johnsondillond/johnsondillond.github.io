@@ -8,9 +8,16 @@ title: Dillon Johnson | Portfolio
 
 I am a developer specializing in Data Science, NLP, and Machine Learning. Below is a curated selection of my work.
 
-### Quick Navigation
-
-[Resume](/resume) | [About Me](/aboutme) | [Contact](/contact)
+<details open>
+  <summary style="cursor: pointer; font-weight: bold; font-size: 1.2em; margin-bottom: 10px;">
+    Quick Navigation (Click to Close)
+  </summary>
+  <nav style="background: rgba(255,255,255,0.05); padding: 15px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.1); margin-bottom: 20px;">
+    <a href="/resume" style="margin-right: 15px;">Resume</a>
+    <a href="/aboutme" style="margin-right: 15px;">About Me</a>
+    <a href="#contact" style="margin-right: 15px;">Contact</a>
+  </nav>
+</details>
 
 ---
 
@@ -34,7 +41,7 @@ I am a developer specializing in Data Science, NLP, and Machine Learning. Below 
 
 ### HackUSU 2026
 
-Participated in a 24 hour hackathon with:
+Participated in a 24 hour hackathon and earned 1st place with:
 
 * <img src="/assets/imgs/haileyjohnson.png" width="50" style="border-radius:50%; vertical-align:middle;"> [Hailey Johnson](https://github.com/haileyhal)
 * <img src="/assets/imgs/lukenichols.jpg" width="50" style="border-radius:50%; vertical-align:middle;"> [Luke Nichols](https://github.com/lukeni64)
@@ -50,19 +57,33 @@ Successfully predicted outcomes for the 2024-2025 NHL Fantasy Season using custo
 * **Key Tech:** Python, Web Scraping.
 * [Detailed Documentation](/nhl-projects) | [Source Code](https://github.com/johnsondillond/nhl-projects)
 
-### Stack Overflow Quality Analysis (NLP)
-
-Collaborative research into what makes a technical query "high quality" using NLP techniques.
-
-* **Key Tech:** Python, Scikit-Learn, NLTK.
-* [Detailed Documentation](/nlp-project) | [Source Code](https://github.com/johnsondillond/NLPProject)
-
 ### One-Stop-Job-Shop
 
-Leading a team at the Analytics Solution Center to revolutionize the job hunt with AI-driven interview tutoring.
-Majority of time was spent teaching the Git version control system to team members of varying experience. Team ended up not having enough time to follow through on the original deliverable.
+Leading a project pitched at the Analytics Solution Center to aggregate job applications after scanning a resume.
 
 * **Key Tech:** Leadership, Git technical skills.
 * [Detailed Documentation](/one-stop-job-shop) | [Source Code](https://github.com/johnsondillond/One-Stop-Job-Shop)
+
+---
+
+<h2 id="contact">Contact Me</h2>
+
+<div style="display: flex; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/johnsondillond" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" title="LinkedIn">
+  </a>
+  
+  <a href="mailto:johnson.dillon.d@gmail.com?subject=Inquiry%20from%20Portfolio&body=Hi%20Dillon,%0D%0A%0D%0AI%20saw%20your%20portfolio%20and%20wanted%20to%20reach%20out%20regarding...">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" title="Email Me">
+  </a>
+  
+  <a href="tel:+15314846258">
+    <img src="https://cdn.simpleicons.org/icloud/007AFF" width="40" title="Call Me">
+  </a>
+  
+  <a href="https://github.com/johnsondillond" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub">
+  </a>
+</div>
 
 > **Note:** For a full history of my work prior to September 2025, please visit [myProjects](https://github.com/johnsondillond/myProjects).
