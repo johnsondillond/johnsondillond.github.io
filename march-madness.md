@@ -7,7 +7,9 @@ title: March Madness Predictor - Machine Learning Analysis
 
 # The Ultimate March Madness Bracket
 
-**Project Members:** * <img src="/assets/imgs/ehthemoohtoo.png" width="50" style="border-radius:50%; vertical-align:middle;"> [Eh The Moo Htoo](https://github.com/sawthai)
+**Project Members:**
+
+* <img src="/assets/imgs/ehthemoohtoo.png" width="50" style="border-radius:50%; vertical-align:middle;"> [Eh The Moo Htoo](https://github.com/sawthai)
 * <img src="/assets/imgs/ryangrotzky.png" width="50" style="border-radius:50%; vertical-align:middle;"> [Ryan Grotzky](https://github.com/grotzkyryan)
 * <img src="/assets/imgs/dillonjohnson.png" width="50" style="border-radius:50%; vertical-align:middle;"> [Dillon Johnson](https://github.com/johnsondillond)
 
