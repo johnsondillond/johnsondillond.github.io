@@ -2,6 +2,7 @@
 layout: default
 title: HackUSU 2026 - 1st Place Case Study
 ---
+
 {% include analytics.html %}
 
 # [1st Place] HackUSU 2026: Marketing Analytics
@@ -52,6 +53,6 @@ You can view the detailed analysis, demographic data, and market simulation resu
 * [Hailey Johnson](https://github.com/haileyhal) <img src="/assets/imgs/haileyjohnson.png" width="50" style="border-radius:50%; vertical-align:middle;"> — Data Analytics
 * [Luke Nichols](https://github.com/lukeni64) <img src="/assets/imgs/lukenichols.jpg" width="50" style="border-radius:50%; vertical-align:middle;"> — Data Analytics
 * [Benjamin Gonzalez](https://github.com/ben-gonz) <img src="/assets/imgs/bengonzalez.jpg" width="50" style="border-radius:50%; vertical-align:middle;"> — Data Analytics
-* [Dillon Johnson](https://github.com/johnsondillond) <img src="/assets/imgs/dillonjohnson.png" width="25" style="border-radius:50%; vertical-align:middle;"> — Computer Science
+* [Dillon Johnson](https://github.com/johnsondillond) <img src="/assets/imgs/dillonjohnson.png" width="50" style="border-radius:50%; vertical-align:middle;"> — Computer Science
 
 [View Source Code on GitHub](https://github.com/johnsondillond/HackUSU2026)
