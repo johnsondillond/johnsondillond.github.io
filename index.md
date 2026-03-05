@@ -59,7 +59,8 @@ Successfully predicted outcomes for the 2024-2025 NHL Fantasy Season using custo
 
 ### One-Stop-Job-Shop
 
-Leading a project pitched at the Analytics Solution Center to aggregate job applications after scanning a resume.
+Led a project pitched at the Analytics Solution Center to aggregate job applications after scanning a resume.
+Ended up disbanding after most of team members were not able to allocate time toward this project effort.
 
 * **Key Tech:** Leadership, Git technical skills.
 * [Detailed Documentation](/one-stop-job-shop) | [Source Code](https://github.com/johnsondillond/One-Stop-Job-Shop)
@@ -70,7 +71,7 @@ Leading a project pitched at the Analytics Solution Center to aggregate job appl
 
 <div style="display: flex; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/johnsondillond" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" title="LinkedIn">
+    <img src="/assets/icons/linkedin.png" width="40" title="LinkedIn">
   </a>
   
   <a href="mailto:johnson.dillon.d@gmail.com?subject=Inquiry%20from%20Portfolio&body=Hi%20Dillon,%0D%0A%0D%0AI%20saw%20your%20portfolio%20and%20wanted%20to%20reach%20out%20regarding...">
@@ -82,7 +83,7 @@ Leading a project pitched at the Analytics Solution Center to aggregate job appl
   </a>
   
   <a href="https://github.com/johnsondillond" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub">
+    <img src="/assets/icons/github.png" width="40" title="GitHub">
   </a>
 </div>
 
