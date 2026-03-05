@@ -1,0 +1,18 @@
+title: Dillon Johnson | Portfolio
+description: A curated look at my software engineering & data science projects.
+remote_theme: pages-themes/midnight@v0.2.0 # Ensures GitHub Pages pulls the theme correctly
+
+baseurl: "/my-portfolio" 
+url: "https://yourusername.github.io"
+
+
+show_downloads: false
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

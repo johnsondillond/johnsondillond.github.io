@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 - [My GitHub Repositories](#my-github-repositories)
   - [nhl-projects](#nhl-projects)
   - [One-Stop-Job-Shop](#one-stop-job-shop)
@@ -7,7 +9,6 @@
   - [HackUSU2025](#hackusu2025)
 
 # My GitHub Repositories
-
 ---
 
 - Overview:
