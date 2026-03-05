@@ -71,19 +71,19 @@ Ended up disbanding after most of team members were not able to allocate time to
 
 <div style="display: flex; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/johnsondillond" target="_blank">
-    <img src="/assets/icons/linkedin.png" width="40" title="LinkedIn">
+    <img src="/assets/icons/linkedin.png" width="40" title="LinkedIn" style="border-radius: 8px">
   </a>
-  
+   
   <a href="mailto:johnson.dillon.d@gmail.com?subject=Inquiry%20from%20Portfolio&body=Hi%20Dillon,%0D%0A%0D%0AI%20saw%20your%20portfolio%20and%20wanted%20to%20reach%20out%20regarding...">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" title="Email Me">
+    <img src="/assets/icons/gmail.png" width="40" title="Email Me" style="border-radius: 8px">
   </a>
   
   <a href="tel:+15314846258">
-    <img src="https://cdn.simpleicons.org/icloud/007AFF" width="40" title="Call Me">
+    <img src="/assets/icons/icloud.png" width="40" title="Call Me" style="border-radius: 8px">
   </a>
   
   <a href="https://github.com/johnsondillond" target="_blank">
-    <img src="/assets/icons/github.png" width="40" title="GitHub">
+    <img src="/assets/icons/github.png" width="40" title="GitHub" style="border-radius: 8px">
   </a>
 </div>
 
